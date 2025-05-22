@@ -6,7 +6,7 @@
 
 ### 📘 About
 
-This GitHub organization serves as a **community-driven archive** of Bitwarden’s open-source projects — maintained for **research, education, development, and public reference**.  
+This GitHub organization serves as a **community-driven archive** of Bitwarden’s open-source projects — maintained for **research, education, development, and public reference**.
 The goal is to preserve and mirror key repositories from Bitwarden and its ecosystem to ensure lasting accessibility and transparency.
 
 ---
@@ -27,6 +27,22 @@ This archive includes forks from:
 - 🧠 Provide a centralized reference point for learners, researchers, and developers  
 - 🔎 Support transparency and exploration of secure password management technologies  
 - 🌐 Help decentralize access to useful open-source projects  
+
+---
+
+### 🧭 How to Navigate
+
+- Use the **Repositories** tab to browse all archived projects.
+- Look for original repo links in each fork’s description.
+- Star or watch any forks you want to track independently.
+
+---
+
+### 🛠 Tips for Developers
+
+- 🧱 Repos are cloned as-is — check for `README.md` in each one for original instructions.
+- 🔁 You can rebase or compare your fork with upstream by adding the official remote.
+- 🛠 Use GitHub’s Compare tool to track changes across time.
 
 ---
 
@@ -60,6 +76,26 @@ Under this organization, you will find forks and mirrors of:
 - 🌿 Community Alternatives (e.g., Vaultwarden)
 
 > Explore freely, learn securely. 🛡️
+
+---
+
+### 📜 License Notice
+
+All licenses and copyright remain with the original authors.  
+Each repository retains its original license file as published by Bitwarden or the respective project.
+
+---
+
+### 🚧 Contribution Policy
+
+This organization is maintained as a **read-only archive**.  
+We do **not accept pull requests or issues** — please contribute directly to the original repositories.
+
+---
+
+### 📌 Pinned Project
+
+We recommend checking out the **[Welcome Repository](#)** (if pinned) for a quick start and index of important resources.
 
 ---
 
