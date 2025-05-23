@@ -5,7 +5,7 @@
 ---
 
 ## 📘 About:
-> This GitHub unofficial organization serves as a **community-driven archive** of Bitwarden’s open-source projects — maintained for **research, education, development, and public reference**. The **goal is to preserve** and mirror key repositories from Bitwarden and its ecosystem to ensure lasting accessibility and transparency.
+- This GitHub unofficial organization serves as a **community-driven archive** of Bitwarden’s open-source projects — maintained for **research, education, development, and public reference**. The **goal is to preserve** and mirror key repositories from Bitwarden and its ecosystem to ensure lasting accessibility and transparency.
 
 ---
 
@@ -67,28 +67,28 @@ Under this organization, you will find forks and mirrors of:
 ---
 
 ## 🚧 Contribution Policy:
-This organization is maintained as a **read-only archive**.
-**We do not accept pull requests or issues** — please contribute directly to the original repositories.
+- This organization is maintained as a **read-only archive**.
+- **We do not accept pull requests or issues** — please contribute directly to the original repositories.
 
 ---
 
 ## 🚫 Disclaimer:
 
-> ⚠️ This archive is **not affiliated with or endorsed by Bitwarden, Inc.** or the original repository authors.
-> All projects, trademarks, and intellectual property belong to their respective owners.
-> This organization **does not modify or actively maintain** the original codebases — it exists purely for archival and educational purposes.
+- This archive is **not affiliated with or endorsed by Bitwarden, Inc.** or the original repository authors.
+- All projects, trademarks, and intellectual property belong to their respective owners.
+- This organization **does not modify or actively maintain** the original codebases — it exists purely for archival and educational purposes.
 
 ---
 
 ## 📜 License Notice:
 
-All licenses and copyright remain with the original authors.
+- All licenses and copyright remain with the original authors.
 Each repository retains its original license file as published by Bitwarden or the respective project.
 
 ---
 
 ## 🙌 Acknowledgments:
 
-Huge thanks to the Bitwarden team and the wider open-source community for promoting transparency, privacy, and digital security.
+- Huge thanks to the Bitwarden team and the wider open-source community for promoting transparency, privacy, and digital security.
 
 ---
