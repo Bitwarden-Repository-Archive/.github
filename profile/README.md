@@ -5,6 +5,7 @@
 ---
 ## 📘 About - Information:
 - This GitHub unofficial organization serves as a **community-driven archive** of **Bitwarden’s open-source projects** — maintained for **research, education, development, and public reference**. The **goal is to preserve** and mirror key repositories from Bitwarden and its ecosystem to ensure lasting accessibility and transparency.
+- Additionally, this archive includes **related open-source password management projects** like ProtonPass and NordPass to broaden community access and reference.
 
 ---
 
@@ -12,18 +13,20 @@
 - 🛡️ Preserve important open-source security tools for future generations.
 - 🧠 Provide a centralized reference point for learners, researchers, and developers.
 - 🔎 Support transparency and exploration of secure password management technologies.
-- 🌐 Help decentralize access to useful open-source projects.
+- 🌐 Help decentralize access to useful open-source projects, including emerging alternatives.
 
 ---
 
 ## 📦 What’s Included:
-This archive contains original forks and notable related projects from the Bitwarden ecosystem:
+This archive contains original forks and notable related projects from the Bitwarden ecosystem and other trusted open-source password managers:
 
 - ✅ **[Bitwarden](https://github.com/bitwarden)** – official open-source repositories for Bitwarden’s secure, cross-platform password management tools and services.
 - 🌱 **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** – a lightweight, community-built Bitwarden-compatible server written in Rust, widely used by self-hosters.
-- 📦 **[Flathub (Flatpak)](https://github.com/flathub/com.bitwarden.desktop)** – a community-maintained Flatpak package for Bitwarden's desktop app, enabling easy, sandboxed Linux distribution.
+- 📦 **[Bitwarden (Flathub Flatpak)](https://github.com/flathub/com.bitwarden.desktop)** – a community-maintained Flatpak package for Bitwarden's desktop app, enabling easy, sandboxed Linux distribution.
 - 🧪 **[Bitwarden Labs](https://github.com/bitwarden-labs)** – a space for experimental, community-led, or research-focused Bitwarden forks and tools.
 - 🧷 **[Buttercup (Discontinued)](https://github.com/buttercup)** – a modern, cross-platform open-source password manager that served as an alternative to Bitwarden.
+- 🔐 **[ProtonPass](https://github.com/protonpass)** – an open-source password manager developed by Proton focusing on privacy and security.
+- 🔒 **[NordPass (Flathub Flatpak)](https://github.com/flathub/com.nordpass.NordPass)** – the community-maintained Linux Flatpak package for NordPass, a secure password manager by Nord Security.
 
 > All repositories are forked directly from their original sources, preserving full commit history for archival and reference purposes.
 
@@ -44,8 +47,8 @@ Under this organization, you will find forks and mirrors of:
 - 💻 CLI Tools & SDKs
 - 🧩 Browser Extensions & Desktop Clients
 - 📱 Mobile Apps (Android/iOS)
-- 🌿 Community Alternatives (e.g., Vaultwarden)
-- 📦 Linux Distribution Packages (e.g., Flatpak from Flathub)
+- 🌿 Community Alternatives (e.g., Vaultwarden, ProtonPass)
+- 📦 Linux Distribution Packages (e.g., Flatpak from Flathub including Bitwarden and NordPass)
 - 🧪 Community Labs & Experimental Projects
 - 🧷 Alternative Password Managers (e.g., Buttercup – Discontinued)
 
@@ -68,11 +71,10 @@ Under this organization, you will find forks and mirrors of:
 
 ## 🚫 Disclaimer:
 
-- This archive is **not affiliated with or endorsed by Bitwarden, Inc.**, Vaultwarden, Flathub, Bitwarden Labs, Buttercup, or any of their respective maintainers.
+- This archive is **not affiliated with or endorsed by Bitwarden, Inc.**, Vaultwarden, Flathub, Bitwarden Labs, Buttercup, ProtonPass, NordPass, or any of their respective maintainers.
 - All projects, trademarks, and intellectual property belong to their respective owners.
 - This organization **does not modify or actively maintain** the original codebases — it exists purely for archival and educational purposes.
-- The inclusion of discontinued or community-driven projects (e.g., Buttercup, Vaultwarden) is for **reference and preservation** only.
-
+- The inclusion of discontinued or community-driven projects (e.g., Buttercup, Vaultwarden) and related password managers (ProtonPass, NordPass) is for **reference and preservation** only.
 
 ---
 
@@ -85,6 +87,8 @@ Under this organization, you will find forks and mirrors of:
   - 📦 Flathub Flatpak maintainers
   - 🧪 Bitwarden Labs experimenters
   - 🧷 Buttercup core team (prior to discontinuation)
+  - 🔐 ProtonPass team
+  - 🔒 NordPass maintainers
 
 ---
 
@@ -92,9 +96,10 @@ Under this organization, you will find forks and mirrors of:
 
 - Huge thanks to the **Bitwarden** team for their leadership in open-source password management.
 - Gratitude to the **Vaultwarden** community for providing lightweight alternatives for self-hosters.
-- Appreciation for the **Flathub** maintainers who bring Bitwarden to Linux users with ease.
+- Appreciation for the **Flathub** maintainers who bring Bitwarden and NordPass to Linux users with ease.
 - Recognition to contributors behind **Bitwarden Labs** for their creativity and experimental spirit.
 - Respect to the **Buttercup** team for their work on an open-source manager that inspired many, even after discontinuation.
+- Thanks to the **ProtonPass** developers for expanding privacy-focused open-source password management.
 - And to all open-source developers and users who value digital security, transparency, and access — thank you.
 
 ---
@@ -105,5 +110,7 @@ Under this organization, you will find forks and mirrors of:
 - [github.com/flathub/com.bitwarden.desktop](https://github.com/flathub/com.bitwarden.desktop)
 - [github.com/bitwarden-labs](https://github.com/bitwarden-labs)
 - [github.com/buttercup](https://github.com/buttercup)
+- [github.com/protonpass](https://github.com/protonpass)
+- [github.com/flathub/com.nordpass.NordPass](https://github.com/flathub/com.nordpass.NordPass)
 
 > For the latest updates, contributions, and support, please visit these original sources directly.
