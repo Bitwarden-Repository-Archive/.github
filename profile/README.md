@@ -3,23 +3,12 @@
 <p align="center"><em>An unofficial public archive of Bitwarden’s open-source repositories and related community projects.</em></p>
 
 ---
-## 📘 About:
-- This GitHub unofficial organization serves as a **community-driven archive** of Bitwarden’s open-source projects — maintained for **research, education, development, and public reference**. The **goal is to preserve** and mirror key repositories from Bitwarden and its ecosystem to ensure lasting accessibility and transparency.
+## 📘 About - Information:
+- This GitHub unofficial organization serves as a **community-driven archive** of **Bitwarden’s open-source projects** — maintained for **research, education, development, and public reference**. The **goal is to preserve** and mirror key repositories from Bitwarden and its ecosystem to ensure lasting accessibility and transparency.
 
 ---
 
-## 🧩 Other Notable Additions:
-This archive also includes several related or alternative projects in the Bitwarden ecosystem:
-
-- 🌱 **Vaultwarden** – A lightweight Bitwarden-compatible server written in Rust, widely used by self-hosters.
-- 📦 **Flathub (Flatpak)** – A Linux-friendly distribution method for the Bitwarden desktop client.
-- 🧪 **Bitwarden Labs** – A space for experimental, community-led, or research-based Bitwarden forks and tools.
-- 🧷 **Buttercup (Discontinued)** – A modern, cross-platform password manager that served as a modern, cross-platform open-source alternative to Bitwarden (now discontinued).
-
----
-
-
-## 🎯 Purpose:
+## 🎯 Main Purpose:
 - 🛡️ Preserve important open-source security tools for future generations.
 - 🧠 Provide a centralized reference point for learners, researchers, and developers.
 - 🔎 Support transparency and exploration of secure password management technologies.
@@ -28,15 +17,15 @@ This archive also includes several related or alternative projects in the Bitwar
 ---
 
 ## 📦 What’s Included:
-This archive includes original forks from:
+This archive contains original forks and notable related projects from the Bitwarden ecosystem:
 
-- ✅ **[Bitwarden](https://github.com/bitwarden)** – official open-source repositories.
-- 🌱 **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** – a lightweight, community-built Bitwarden-compatible server written in Rust.
-- 📦 **[Flathub](https://github.com/flathub/com.bitwarden.desktop)** – a community-maintained Flatpak package for Bitwarden's desktop app, designed for easy distribution and sandboxed installation across Linux systems.
-- 🧪 **[Bitwarden Labs](https://github.com/bitwarden-labs)** – unofficial experimental and research-focused projects.
-- 🧷 **[Buttercup](https://github.com/buttercup)** – secure, modern, cross-platform password manager. *(Discontinued – New Addition)*
+- ✅ **[Bitwarden](https://github.com/bitwarden)** – official open-source repositories for Bitwarden’s secure, cross-platform password management tools and services.
+- 🌱 **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** – a lightweight, community-built Bitwarden-compatible server written in Rust, widely used by self-hosters.
+- 📦 **[Flathub (Flatpak)](https://github.com/flathub/com.bitwarden.desktop)** – a community-maintained Flatpak package for Bitwarden's desktop app, enabling easy, sandboxed Linux distribution.
+- 🧪 **[Bitwarden Labs](https://github.com/bitwarden-labs)** – a space for experimental, community-led, or research-focused Bitwarden forks and tools.
+- 🧷 **[Buttercup (Discontinued)](https://github.com/buttercup)** – a modern, cross-platform open-source password manager that served as an alternative to Bitwarden.
 
-> All repositories are forked directly from the source, preserving commit history for reference and archival purposes.
+> All repositories are forked directly from their original sources, preserving full commit history for archival and reference purposes.
 
 ---
 
@@ -61,17 +50,6 @@ Under this organization, you will find forks and mirrors of:
 - 🧷 Alternative Password Managers (e.g., Buttercup – Discontinued)
 
 > Explore freely, learn securely. 🛡️
-
----
-
-## 🔗 Official & Related Sources:
-- [github.com/bitwarden](https://github.com/bitwarden)
-- [github.com/dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
-- [github.com/flathub/com.bitwarden.desktop](https://github.com/flathub/com.bitwarden.desktop)
-- [github.com/bitwarden-labs](https://github.com/bitwarden-labs)
-- [github.com/buttercup](https://github.com/buttercup)
-
-> For the latest updates, contributions, and support, please visit these original sources directly.
 
 ---
 
@@ -118,3 +96,14 @@ Under this organization, you will find forks and mirrors of:
 - Recognition to contributors behind **Bitwarden Labs** for their creativity and experimental spirit.
 - Respect to the **Buttercup** team for their work on an open-source manager that inspired many, even after discontinuation.
 - And to all open-source developers and users who value digital security, transparency, and access — thank you.
+
+---
+
+## 🔗 Official & Related Sources:
+- [github.com/bitwarden](https://github.com/bitwarden)
+- [github.com/dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+- [github.com/flathub/com.bitwarden.desktop](https://github.com/flathub/com.bitwarden.desktop)
+- [github.com/bitwarden-labs](https://github.com/bitwarden-labs)
+- [github.com/buttercup](https://github.com/buttercup)
+
+> For the latest updates, contributions, and support, please visit these original sources directly.
